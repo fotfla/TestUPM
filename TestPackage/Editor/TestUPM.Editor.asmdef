@@ -1,8 +1,7 @@
 {
     "name": "TestUPM.Editor",
     "references": [
-        "TestUPM",
-        "TestUPM.Editor"
+        "TestUPM"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
